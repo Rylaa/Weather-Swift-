@@ -6,6 +6,10 @@ https://github.com/SwiftyJSON/SwiftyJSON
 https://github.com/Alamofire/Alamofire
 
 
+#API https://openweathermap.org/
+
+
+
 
 ## Fix for App Transport Security Override
 
@@ -27,6 +31,3 @@ https://github.com/Alamofire/Alamofire
 
 
 
-
-# Weather-Swift-
-# Weather-Swift-
