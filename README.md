@@ -1,5 +1,5 @@
 # Weather
-📱 | Project Stub | (Swift 4.1/Xcode 9.4) - Weather App
+📱 | Project Stub | (Swift 4.1/Xcode 9.4.1) - Weather App
 
 ## Resources
 https://github.com/SwiftyJSON/SwiftyJSON
