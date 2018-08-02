@@ -3,6 +3,8 @@
 
 ## used resources ----------
 https://github.com/SwiftyJSON/SwiftyJSON
+
+--------
 https://github.com/Alamofire/Alamofire
 
 
