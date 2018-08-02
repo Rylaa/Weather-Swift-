@@ -1,16 +1,18 @@
 # Weather
 📱 | Project Stub | (Swift 4.0/Xcode 9) - Weather App
 
-## used resources ----------
+## Resources
 https://github.com/SwiftyJSON/SwiftyJSON
 
---------
 https://github.com/Alamofire/Alamofire
+
+
+
 
 
 #API https://openweathermap.org/
 
-
+-----------
 
 
 ## Fix for App Transport Security Override
